@@ -1,2 +1,3 @@
 Modified file
+And another modification
 
